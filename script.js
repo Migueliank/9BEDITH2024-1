@@ -6,5 +6,5 @@ function setup() {
     console.log(palavra);
 
     noLoop();
-  }
+}
     
